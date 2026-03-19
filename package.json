@@ -1,0 +1,15 @@
+{
+  "name": "com.jbf.app",
+  "displayName": "Obfuscator Luau",
+  "version": "1.0.0",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-splashscreen": {}
+    }
+  }
+}
